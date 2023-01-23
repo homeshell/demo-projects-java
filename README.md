@@ -1,8 +1,12 @@
 # demo-projects-java
-Java skills demonstration
+Java skills demonstration.
 
-DATE 2023 January, 22 7:39pm
-My first personal Java project. It's an initial program to solidify my understanding roughly one week after beginning to learn Java. 
+
+Date created 2023 January, 22nd.
+
+
+My *first personal Java project*. It's an initial program to solidify my understanding roughly one week after beginning to learn Java. 
+
 
 It demonstrates a basic understanding of the following:
 
@@ -18,3 +22,6 @@ It demonstrates a basic understanding of the following:
 - Input validation.
 
 After completing this, my goal will be to continue the education journey into advanced concepts. Most notably, the core object-oriented aspects of Java.
+
+
+More to come!
